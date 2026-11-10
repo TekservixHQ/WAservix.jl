@@ -1,0 +1,19 @@
+name = "WAservix"
+uuid = "cac39f49-b157-4c55-892d-445f5faf138a"
+authors = ["Tekservix <support@tekservix.com>"]
+version = "1.0.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+
+[compat]
+HTTP = "1"
+JSON3 = "1"
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
