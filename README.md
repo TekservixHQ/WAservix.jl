@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/TekservixHQ/WAservix.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/TekservixHQ/WAservix.jl/actions/workflows/CI.yml)
 
+**WAservix WhatsApp API Gateway** - official Julia client: send WhatsApp messages from your own number. By Tekservix.
+
 Julia client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, documents, locations and polls. Handy for sending plots, reports and alerts from Julia scripts straight to WhatsApp.
